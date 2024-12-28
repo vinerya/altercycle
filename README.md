@@ -254,9 +254,9 @@ If you use AlterCycle in your research, please cite:
 ```bibtex
 @software{altercycle,
   title = {AlterCycle: A Specialized Data Structure for Binary State Alternation},
-  author = {Your Name},
-  year = {2023},
+  author = {Moudather Chelbi},
+  year = {2024},
   description = {A Python data structure optimized for alternating binary states in cyclic sequences},
-  url = {https://github.com/yourusername/altercycle}
+  url = {https://github.com/vinerya/altercycle}
 }
 ```
